@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Sam Musch"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/My_picture.jpg"
   bio              : "Data Science Portfolio"
   location         : "Minneapolis, MN"
   email            :
