@@ -4,4 +4,4 @@ permalink: /ml/
 title: "Machine Learning and Code"
 ---
 
-placeholder
+- [EDA Notes](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/EDA%20Overview%20Notes.md)
