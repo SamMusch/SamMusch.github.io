@@ -21,30 +21,30 @@ title: "Machine Learning and Code"
 
 **ML Notes**
 - Overview
- - [General Overview]()
- - [Libraries]()
+  - [General Overview]()
+  - [Libraries]()
 
 - Feature Engineering
- - [Clustering]()
- - [Anomaly Detection]()
- - [Association Rules]()
- - [Cross Validation and Data Formats]()
- - [Dimensionality Reduction]()
- - [Evaluation]()
+  - [Clustering]()
+  - [Anomaly Detection]()
+  - [Association Rules]()
+  - [Cross Validation and Data Formats]()
+  - [Dimensionality Reduction]()
+  - [Evaluation]()
 
 - [Classification]()
- - [Trees]()
- - [Knn]()
- - [Logistic]()
+  - [Trees]()
+  - [Knn]()
+  - [Logistic]()
 
 - Regression
- - [Gradient Descent]()
- - [SVM]()
+  - [Gradient Descent]()
+  - [SVM]()
 
 - [Ensemble]()
 
 - [Neural Networks]()
 
 - [Unsupervised]()
- - [Bayesian Networks]()
- - [Topic Modeling]()
+  - [Bayesian Networks]()
+  - [Topic Modeling]()
