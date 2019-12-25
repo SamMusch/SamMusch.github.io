@@ -25,9 +25,10 @@ title: "Machine Learning and Code"
   - [Libraries]()
 
 - Feature Engineering
-  - [Clustering]()
+  - [Data Formats, Initial Plots]
   - [Anomaly Detection]()
-  - [Cross Validation and Data Formats]()
+  - [Clustering and Distance]()
+  - [Cross Validation]()
   - [Dimensionality Reduction]()
   - [Evaluation]()
 
@@ -41,10 +42,11 @@ title: "Machine Learning and Code"
   - [SVM]()
 
 - [Ensemble]()
+  - [Boosting Specific]()
 
 - [Neural Networks]()
 
-- [Unsupervised]()
+- [Misc]()
   - [Bayesian Networks]()
   - [Topic Modeling]()
   - [Association Rules]()
