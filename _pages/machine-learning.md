@@ -4,4 +4,47 @@ permalink: /ml/
 title: "Machine Learning and Code"
 ---
 
-- [EDA Notes](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/EDA%20Overview%20Notes.md)
+**Best References**
+
+
+
+**R**
+- [R Syntax]()
+- [R Syntax Visualization]
+
+
+**Python**
+- [Python Syntax]()
+- [Python Pandas and Numpy]()
+- [Python Visualization]()
+
+
+**ML Notes**
+- Overview
+ - [General Overview]()
+ - [Libraries]()
+
+- Feature Engineering
+ - [Clustering]()
+ - [Anomaly Detection]()
+ - [Association Rules]()
+ - [Cross Validation and Data Formats]()
+ - [Dimensionality Reduction]()
+ - [Evaluation]()
+
+- [Classification]()
+ - [Trees]()
+ - [Knn]()
+ - [Logistic]()
+
+- Regression
+ - [Gradient Descent]()
+ - [SVM]()
+
+- [Ensemble]()
+
+- [Neural Networks]()
+
+- [Unsupervised]()
+ - [Bayesian Networks]()
+ - [Topic Modeling]()
