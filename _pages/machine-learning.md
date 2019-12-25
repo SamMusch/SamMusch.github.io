@@ -27,7 +27,6 @@ title: "Machine Learning and Code"
 - Feature Engineering
   - [Clustering]()
   - [Anomaly Detection]()
-  - [Association Rules]()
   - [Cross Validation and Data Formats]()
   - [Dimensionality Reduction]()
   - [Evaluation]()
@@ -48,3 +47,4 @@ title: "Machine Learning and Code"
 - [Unsupervised]()
   - [Bayesian Networks]()
   - [Topic Modeling]()
+  - [Association Rules]()
