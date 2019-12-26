@@ -5,50 +5,50 @@ title: "Machine Learning and Code"
 ---
 
 **Best References**
+- [R for Data Science by Hadley Wickham](https://r4ds.had.co.nz/)
+- [Python for Data Analysis by Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781491957653/ch02.html)
+- [Data Exploration (Python)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+- [Time Series with xgboost](https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost)
+- [Sklearn Examples](https://github.com/scikit-learn/scikit-learn/tree/master/examples)
+- [ML Templates](https://github.com/susanli2016/Machine-Learning-with-Python)
 
 
-
-**R**
-- [R Syntax]()
-- [R Syntax Visualization]
-
-
-**Python**
-- [Python Syntax]()
-- [Python Pandas and Numpy]()
-- [Python Visualization]()
+**R and Python Syntax (My Notes)**
+- [R Syntax](https://github.com/SamMusch/R)
+- [Python Syntax](https://github.com/SamMusch/Python)
 
 
 **ML Notes**
 - Overview
   - [Supervised Overview](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Predictive%20Overview%20Notes.ipynb)
   - [Unsupervised Overview](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/EDA%20Overview%20Notes.md)
-  - [Libraries]()
+  - [Libraries](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Libraries.ipynb)
 
 - Feature Engineering
   - [Data Formats, Initial Plots]
-  - [Anomaly Detection]()
-  - [Clustering and Distance]()
+  - [Anomaly Detection](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Anomaly.ipynb)
+  - [Clustering and Distance](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Clustering.ipynb)
   - [Cross Validation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Cross%20Validation.ipynb)
-  - [Dimensionality Reduction]()
-  - [Evaluation]()
+  - [Dimensionality Reduction](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/PCA%20and%20Dimensionality%20Reduction.ipynb)
 
-- [Classification]()
+- Classification
+  - [Notes](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Classification%20Notes.ipynb)
+  - [Evaluation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Classification%20Evaluation.ipynb)
   - [Trees](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Decision%20Trees.ipynb)
   - [Knn](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Knn.ipynb)
   - [Logistic](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Logistic%20Regression.ipynb)
 
 - Regression
-  - [Gradient Descent]()
+  - [Gradient Descent](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Gradient%20Descent.ipynb)
   - [SVM](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/SVM.ipynb)
+  - [Evaluation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Regression%20Overview%20and%20Eval.ipynb)
 
 - [Ensemble](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Ensemble%20Notes.ipynb)
-  - [Boosting Specific]()
+  - [Boosting Specific]
 
 
-- [Misc]()
+- Misc
   - [Neural Networks](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Neural%20Network.ipynb)
-  - [Bayesian Networks]()
-  - [Topic Modeling]()
-  - [Association Rules]()
+  - [Bayesian Networks & Topic Modeling](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Bayes%20and%20Topic%20Modeling.ipynb)
+  - [Association Rules](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Association%20Rules.ipynb)
   - [Recommender Systems](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Recommender%20Systems.ipynb)
