@@ -5,7 +5,7 @@ title: "Stats, Math, Economics"
 ---
 
 ### Stats
-- [https://github.com/SamMusch/R/tree/master/Statistics]
+- [Stats Files](https://github.com/SamMusch/R/tree/master/Statistics)
 
 ### Math
 - [Linear Algebra with R](https://github.com/SamMusch/R/blob/master/Projects/Linear%20Algebra%20(Economics%20Problem).md)
