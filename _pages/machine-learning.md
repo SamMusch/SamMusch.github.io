@@ -16,6 +16,7 @@ title: "Machine Learning and Code"
 **R and Python Syntax (My Notes)**
 - [R Syntax](https://github.com/SamMusch/R)
 - [Python Syntax](https://github.com/SamMusch/Python)
+- [Private - Python](https://github.com/SamMusch/Private-Repo/tree/master/Python)
 
 
 **ML Notes**
@@ -48,6 +49,7 @@ title: "Machine Learning and Code"
 
 
 - Misc
+  - [Private - EDA](https://github.com/SamMusch/Private-Repo/tree/master/EDA)
   - [Neural Networks](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Neural%20Network.ipynb)
   - [Bayesian Networks & Topic Modeling](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Bayes%20and%20Topic%20Modeling.ipynb)
   - [Association Rules](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Association%20Rules.ipynb)
