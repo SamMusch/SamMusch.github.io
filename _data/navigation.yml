@@ -6,7 +6,7 @@ main:
     url: /ml/
   - title: "SQL & Big Data"
     url: /sql/
-  - title: "Stats & Math"
+  - title: "Other Notes"
     url: /stats/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
