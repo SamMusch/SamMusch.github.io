@@ -4,18 +4,16 @@ permalink: /projects/
 title: "Sample of Projects Completed"
 ---
 
-Semester projects not listed, NDA
+*Semester projects not listed, NDA*
+- Client: Mall of America (Exploratory Analytics)
+  - Saved est $5M / year with predictive model to optimize number of hourly staff
+  - Built user-adjustable Tableau heatmap to improve staff location within mall
+- Client: Leading Hospitality and Entertainment Business
+  - Increased revenue by est $1.4M / month by identifying high value customers and reducing attrition
+  - Used clustering, decision trees, Poisson Regression to identify these customers
+  - Led team in creating visualizations and transfer documents to keep technical info clear
 
-Client: Mall of America (Exploratory Analytics)
-- Saved est $5M / year with predictive model to optimize number of hourly staff
-- Built user-adjustable Tableau heatmap to improve staff location within mall
-
-Client: Leading Hospitality and Entertainment Business
-- Increased revenue by est $1.4M / month by identifying high value customers and reducing attrition
-- Used clustering, decision trees, Poisson Regression to identify these customers
-- Led team in creating visualizations and transfer documents to keep technical info clear
-
-
+---
 
 - [Minneapolis Crime](https://github.umn.edu/bhatt339/TrendsMarketplace-Team15)
 
