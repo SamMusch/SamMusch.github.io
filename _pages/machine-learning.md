@@ -17,7 +17,7 @@ title: "Machine Learning and Code"
 - [R Syntax](https://github.com/SamMusch/R)
 - [Python Syntax](https://github.com/SamMusch/Python)
 - [Private - Python](https://github.com/SamMusch/Private-Repo/tree/master/Python)
-
+- [Private - Python Labs](https://github.umn.edu/MUSCH038/msba6310-labs)
 
 **ML Notes**
 - Overview
