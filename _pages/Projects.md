@@ -26,7 +26,7 @@ We used AWS services such as S3 for storage, Comprehend for sentiment analysis, 
 
 - Japan Restaurant Forecasting
   - [Kaggle Post](https://www.kaggle.com/sammusch/kernel4ddef32243)
-  - [Github Repository](https://github.umn.edu/MUSCH038/Predictive-Project---Time-Series)
+  - [Github Repository](https://github.com/SamMusch/Predictive-Project-Time-Series)
 
 This was a project we completed for our course in Predictive Analytics (supervised learning) in Fall 2019. We were looking to forecast the number of daily visitors for 150 different restaurants located in different parts of Japan.
 
