@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Sam Musch"
-  avatar           : "/SamMusch.github.io/images/My_picture.jpg"
+  avatar           : "/images/my_picture.jpg"
   bio              : "Data Science Portfolio"
   location         : "Minneapolis, MN"
   email            :
