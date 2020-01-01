@@ -24,13 +24,11 @@ title: "SQL and Big Data"
 
 - [Overview Notes](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/1_-_Setup.md)
 - [Conditions](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/SQL%20Notes/Querying.md)
-- [Joins]
-- [Subqueries]
+- [Joins & Subqueries](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/SQL%20Notes/Joins%20%26%20Subqueries.md)
 - [More Advanced]
 
 
-- [Structure](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/1_-_Setup.md)
-- [Querying Overview](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/2_-_Querying.md)
+
 - [Syntax Folder](https://github.com/SamMusch/SQL-and-Big-Data/tree/master/SQL%20Syntax)
 - [Private - Reily Examples](https://github.com/SamMusch/Private-Repo/tree/master/SQL%20Examples)
 - [Private - Reily HW Solutions](https://github.com/SamMusch/Private-Repo/tree/master/SQL%20HW%20Ref)
