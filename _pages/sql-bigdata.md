@@ -22,6 +22,13 @@ title: "SQL and Big Data"
 
 ### SQL
 
+- [Overview Notes]
+- [Conditions]
+- [Joins]
+- [Subqueries]
+- [More Advanced]
+
+
 - [Structure](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/1_-_Setup.md)
 - [Querying Overview](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/2_-_Querying.md)
 - [Syntax Folder](https://github.com/SamMusch/SQL-and-Big-Data/tree/master/SQL%20Syntax)
