@@ -7,8 +7,6 @@ title: "Machine Learning and Code"
 **Best References**
 - [R for Data Science by Hadley Wickham](https://r4ds.had.co.nz/)
 - [Python for Data Analysis by Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781491957653/ch02.html)
-- [Data Exploration (Python)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
-- [Time Series with xgboost](https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost)
 - [Sklearn Examples](https://github.com/scikit-learn/scikit-learn/tree/master/examples)
 - [ML Templates](https://github.com/susanli2016/Machine-Learning-with-Python)
 
@@ -54,3 +52,8 @@ title: "Machine Learning and Code"
   - [Bayesian Networks & Topic Modeling](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Bayes%20and%20Topic%20Modeling.ipynb)
   - [Association Rules](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Association%20Rules.ipynb)
   - [Recommender Systems](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Recommender%20Systems.ipynb)
+
+
+- Other References
+  - [Data Exploration (Python)](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+  - [Time Series with xgboost](https://www.kaggle.com/robikscube/tutorial-time-series-forecasting-with-xgboost)
