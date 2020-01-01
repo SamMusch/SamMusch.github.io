@@ -22,8 +22,8 @@ title: "SQL and Big Data"
 
 ### SQL
 
-- [Overview Notes]
-- [Conditions]
+- [Overview Notes](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/1_-_Setup.md)
+- [Conditions](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/SQL%20Notes/Querying.md)
 - [Joins]
 - [Subqueries]
 - [More Advanced]
