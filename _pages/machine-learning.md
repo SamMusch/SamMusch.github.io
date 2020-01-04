@@ -23,6 +23,8 @@ title: "Machine Learning and Code"
   - [Unsupervised Overview](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/EDA%20Overview%20Notes.md)
   - [Libraries](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Libraries.ipynb)
 
+
+
 - Feature Engineering
   - [Data Formats, Initial Plots]
   - [Anomaly Detection](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Anomaly.ipynb)
@@ -30,7 +32,7 @@ title: "Machine Learning and Code"
   - [Cross Validation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Cross%20Validation.ipynb)
   - [Dimensionality Reduction](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/PCA%20and%20Dimensionality%20Reduction.ipynb)
 
-- Classification
+- [Classification](https://github.com/scikit-learn/scikit-learn/tree/master/examples/classification)
   - [Notes](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Classification%20Notes.ipynb)
   - [Evaluation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Classification%20Evaluation.ipynb)
   - [Trees](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Decision%20Trees.ipynb)
@@ -42,7 +44,8 @@ title: "Machine Learning and Code"
   - [SVM](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/SVM.ipynb)
   - [Evaluation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Regression%20Overview%20and%20Eval.ipynb)
 
-- [Ensemble](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Ensemble%20Notes.ipynb)
+- [Ensemble Full](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Ensemble%20Notes.ipynb)
+  - [Higher Level](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Ensembling%20High%20Level.md)
   - [Boosting Specific]
 
 
