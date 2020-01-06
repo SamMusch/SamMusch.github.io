@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Sample of Projects Completed"
 ---
 
-*The two following semester projects are not listed as we have an NDA with the companies we worked with.*
+*The two following semester projects are not included as we have an NDA with the companies we worked with.*
 - Client: Mall of America (Exploratory Analytics)
   - Saved est $5M / year with predictive model to optimize number of hourly staff
   - Built user-adjustable Tableau heatmap to improve staff location within mall
