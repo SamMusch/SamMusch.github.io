@@ -4,6 +4,11 @@ permalink: /ml/
 title: "Machine Learning and Code"
 ---
 
+
+- [Determining the Question to Answer](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Use%20Case.md)
+- [Project Management](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Project%20Management.md)
+
+
 **Best References**
 - [R for Data Science by Hadley Wickham](https://r4ds.had.co.nz/)
 - [Python for Data Analysis by Wes McKinney](https://www.oreilly.com/library/view/python-for-data/9781491957653/ch02.html)
@@ -16,6 +21,8 @@ title: "Machine Learning and Code"
 - [Python Syntax](https://github.com/SamMusch/Python)
 - [Private - Python](https://github.com/SamMusch/Private-Repo/tree/master/Python)
 - [Private - Python Labs](https://github.umn.edu/MUSCH038/msba6310-labs)
+
+
 
 **ML Notes**
 - Overview
