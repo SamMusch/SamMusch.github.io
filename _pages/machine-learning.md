@@ -5,7 +5,7 @@ title: "Machine Learning and Code"
 ---
 
 
-**This link is meant to demonstrate the technical tasks I am able to perform but is mainly intended as a personal reference for myself.**
+*This link is meant to demonstrate the technical tasks I am able to perform but is mainly intended as a personal reference for myself.*
 
 
 - [Determining the Question to Answer](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Use%20Case.md)
