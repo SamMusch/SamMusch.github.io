@@ -4,6 +4,9 @@ permalink: /stats/
 title: "Stats, Math, Economics"
 ---
 
+**This link is meant to demonstrate my understanding of non-technical skills and areas of interest outside of working with data, but is mainly intended as a personal reference for myself.**
+
+
 ### Stats
 - [Stats Files](https://github.com/SamMusch/R/tree/master/Statistics)
 

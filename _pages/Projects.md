@@ -15,7 +15,7 @@ title: "Sample of Projects Completed"
 
 ---
 
-- [Minneapolis Crime](https://github.umn.edu/bhatt339/TrendsMarketplace-Team15)
+- [Minneapolis Crime](https://github.com/SamMusch/Minneapolis-Crime)
 
 
 This was the project our team completed for our course in Big Data in Fall 2019. We were looking to predict the number of crimes that would occur for each of the 5 police precincts on a daily level to help improve the number of people staffed on the day.
@@ -37,4 +37,4 @@ Our final model was an ensemble of RNN (sequential neural network model) and Lig
 - [Undergrad - Stedmans Cafe](https://github.com/SamMusch/Stedmans)
 
 
-This was an undergraduate project to help out the cafe in our Business Administration building. We focused mainly on identifying and promoting high profit margin items. I produced quite a few dashboards [in Tableau](https://github.com/SamMusch/Stedmans/tree/master/Tableau%20Workbooks) to make sure that our analysis was clear for the employees. We also focused quite a bit on setting up templates that future teams would be able to work off of as the data cleaning process was lengthy.
+This was an undergraduate project to help out the cafe in our Business Administration building. We focused mainly on identifying and promoting high profit margin items. I produced quite a few dashboards [in Tableau](https://github.com/SamMusch/Stedmans/tree/master/Images) to make sure that our analysis was clear for the employees. We also focused quite a bit on setting up templates that future teams would be able to work off of as the [data cleaning process](https://github.com/SamMusch/Stedmans/blob/master/Stedman2.R) was lengthy.

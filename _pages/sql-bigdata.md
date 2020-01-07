@@ -4,6 +4,8 @@ permalink: /sql/
 title: "SQL and Big Data"
 ---
 
+**This link is meant to demonstrate the technical tasks I am able to perform and my understanding of the underlying workings of technology we are using, but is mainly intended as a personal reference for myself.**
+
 
 [Git Commands](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/Git.md)  
 [Linux](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/Linux.ipynb)
