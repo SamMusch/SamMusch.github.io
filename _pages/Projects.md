@@ -4,17 +4,6 @@ permalink: /projects/
 title: "Sample of Projects Completed"
 ---
 
-*The two following semester projects are not included as we have an NDA with the companies we worked with.*
-- Client: Mall of America (Exploratory Analytics)
-  - Saved est $5M / year with predictive model to optimize number of hourly staff
-  - Built user-adjustable Tableau heatmap to improve staff location within mall
-- Client: Leading Hospitality and Entertainment Business
-  - Increased revenue by est $1.4M / month by identifying high value customers and reducing attrition
-  - Used clustering, decision trees, Poisson Regression to identify these customers
-  - Led team in creating visualizations and transfer documents to keep technical info clear
-
----
-
 
 - Japan Restaurant Forecasting
   - [Our Kaggle Post](https://www.kaggle.com/sammusch/kernel4ddef32243)
@@ -62,3 +51,16 @@ At the time of this project I was still a beginner in R and was in the process o
 This was an undergraduate project for my course on Econometrics. This was my very first introduction to R, so almost all of the code is statistical tests. The focus of the project was to run multiple regression and check for multicollinearity, normality of residuals, etc.
 
 [Tableau Dashboard](https://public.tableau.com/profile/sam.musch#!/vizhome/AgricultureWages/Dashboard1)
+
+
+---
+
+
+*The two following semester projects are not included as we have an NDA with the companies we worked with.*
+- Client: Mall of America (Exploratory Analytics)
+  - Saved est $5M / year with predictive model to optimize number of hourly staff
+  - Built user-adjustable Tableau heatmap to improve staff location within mall
+- Client: Leading Hospitality and Entertainment Business
+  - Increased revenue by est $1.4M / month by identifying high value customers and reducing attrition
+  - Used clustering, decision trees, Poisson Regression to identify these customers
+  - Led team in creating visualizations and transfer documents to keep technical info clear
