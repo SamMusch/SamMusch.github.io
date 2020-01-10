@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "Projects"
+  - title: "My Projects"
     url: /projects/
-  - title: "Machine Learning"
+  - title: "ML Notes"
     url: /ml/
-  - title: "SQL & Big Data"
+  - title: "SQL & Big Data Notes"
     url: /sql/
   - title: "Other Notes"
     url: /stats/
