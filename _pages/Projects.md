@@ -18,6 +18,7 @@ Our final model was an ensemble of RNN (sequential neural network model) and Lig
 
 
 - [Minneapolis Crime](https://github.com/SamMusch/Minneapolis-Crime)
+- [Tableau Map](https://public.tableau.com/profile/sam.musch#!/vizhome/MinneapolisCrime/Sheet1)
 
 
 This was the project our team completed for our course in Big Data in Fall 2019. We were looking to predict the number of crimes that would occur for each of the 5 police precincts on a daily level to help improve the number of people staffed on the day.
