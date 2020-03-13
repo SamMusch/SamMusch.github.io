@@ -7,18 +7,8 @@ title: "Stats, Math, Economics"
 *This link is meant to demonstrate my understanding of non-technical skills and areas of interest outside of working with data, but is mainly intended as a personal reference for myself.*
 
 ### Causal
-- [Github](https://github.com/SamMusch/R/tree/master/Causal)
+- [Github](https://github.com/SamMusch/Causal-Inference)
 - [Private](https://github.com/SamMusch/Private-Repo/tree/master/Causal)
-
-
-### Advanced Issues
-- [Github](https://github.com/SamMusch/R/tree/master/Adv%20Issues%20Notes)
-- [Private](https://github.com/SamMusch/Private-Repo/tree/master/Advanced)
-
-
-### Project MGMT
-- [Github](https://github.com/SamMusch/Predictive-and-EDA/tree/master/Proj-MGMT)
-- [Private](https://github.com/SamMusch/Private-Repo/tree/master/ProjectMGMT)
 
 
 
