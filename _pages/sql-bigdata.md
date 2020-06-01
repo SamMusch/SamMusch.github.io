@@ -27,7 +27,7 @@ title: "SQL and Big Data"
 - [Overview Notes](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/1_-_Setup.md)
 - [Conditions](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/SQL%20Notes/Querying.md)
 - [Joins & Subqueries](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/SQL%20Notes/Joins%20%26%20Subqueries.md)
-- [More Advanced]
+- [Windows, CTE, Case]([https://github.com/SamMusch/SQL-and-Big-Data/blob/master/SQL%20Notes/Window%2C%20cte%2C%20case.md](https://github.com/SamMusch/SQL-and-Big-Data/blob/master/SQL Notes/Window%2C cte%2C case.md))
 
 
 
