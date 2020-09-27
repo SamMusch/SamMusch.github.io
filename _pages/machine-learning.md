@@ -29,21 +29,22 @@ title: "Machine Learning and Code"
 
 **ML Notes**
 - Overview
-  - [Supervised Overview](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Predictive%20Overview%20Notes.ipynb)
-  - [Unsupervised Overview](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/EDA%20Overview%20Notes.md)
-  - [Libraries](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Libraries.ipynb)
+  - [Supervised Overview](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/1%20Predictive%20Overview.md)
+  - [Unsupervised Overview](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/1%20EDA%20Overview%20Notes.md)
+  - [Libraries](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Algos/Libraries.ipynb)
+  - [Classification](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/2%20Classification%20Notes.md)
+  - [Regression](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/2%20Regression%20Overview%20and%20Eval.md)
 
 
 
 - Feature Engineering
-  - [Data Formats, Initial Plots]
   - [Anomaly Detection](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Anomaly.ipynb)
   - [Clustering and Distance](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Clustering.ipynb)
   - [Cross Validation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Cross%20Validation.ipynb)
   - [Dimensionality Reduction](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/PCA%20and%20Dimensionality%20Reduction.ipynb)
 
 - [Classification](https://github.com/scikit-learn/scikit-learn/tree/master/examples/classification)
-  - [Notes](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Classification%20Notes.ipynb)
+  - [Notes](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/2%20Classification%20Notes.md)
   - [Evaluation](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Classification%20Evaluation.ipynb)
   - [Trees](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Decision%20Trees.ipynb)
   - [Knn](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Knn.ipynb)
@@ -56,7 +57,6 @@ title: "Machine Learning and Code"
 
 - [Ensemble Full](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Ensemble%20Notes.ipynb)
   - [Higher Level](https://github.com/SamMusch/Predictive-and-EDA/blob/master/Notes/Ensembling%20High%20Level.md)
-  - [Boosting Specific]
 
 
 - Misc
