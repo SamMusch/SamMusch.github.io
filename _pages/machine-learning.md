@@ -6,13 +6,13 @@ title: "Machine Learning and Code"
 
 
 **Syntax**
-- [R]()
-- [Python]()
+- [Repo](https://github.com/SamMusch/Syntax)
 
 
 **Data Science**
-- []()
+- [Repo](https://github.com/SamMusch/DS)
 
 
 **Economics**
-- [Full Industrial Org Repo](https://github.com/SamMusch/Industrial-Organization)
+- [Repo](https://github.com/SamMusch/Economics)
+- [IO / Behavioral Econ](https://github.com/SamMusch/Industrial-Organization)
