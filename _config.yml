@@ -25,7 +25,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/sam.musch#!/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-link"
+      icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/sammusch"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
