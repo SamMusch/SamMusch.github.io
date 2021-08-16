@@ -16,11 +16,11 @@ author:
   avatar           : "/images/final_image.jpg"
   bio              : "Data Science Portfolio"
   location         : "Minneapolis, MN"
-  email            : "musch.sam@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: musch.sam@gmail.com
+      url: "musch.sam@gmail.com"
     - label: "Tableau Public"
       icon: "fas fa-fw fa-link"
       url: "https://public.tableau.com/profile/sam.musch#!/"
