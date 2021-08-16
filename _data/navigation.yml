@@ -1,13 +1,9 @@
 # main links
 main:
-  - title: "My Projects"
+  - title: "Projects"
     url: /projects/
-  - title: "ML Notes"
+  - title: "Notes"
     url: /ml/
-  - title: "SQL & Big Data Notes"
-    url: /sql/
-  - title: "Other Notes"
-    url: /stats/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
