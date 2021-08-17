@@ -15,4 +15,6 @@ title: "Machine Learning and Code"
 
 **Economics**
 - [Repo](https://github.com/SamMusch/Economics)
+- [Global Economy](https://htmlpreview.github.io/?https://github.com/SamMusch/Economics/blob/main/Global-Notebook.html)
 - [IO / Behavioral Econ](https://github.com/SamMusch/Industrial-Organization)
+
