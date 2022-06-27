@@ -4,7 +4,7 @@ permalink: /notes/
 title: ""
 ---
 
-These notebooks are a WIP of what I've learned in my life so far.
+These notebooks are a WIP of what I've learned so far.
 
 All links below are rendered in HTML.
 
