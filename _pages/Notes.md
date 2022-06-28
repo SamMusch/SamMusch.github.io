@@ -4,7 +4,7 @@ permalink: /notes/
 title: ""
 ---
 
-These notebooks are a WIP of what I've learned so far.
+These notebooks are all a WIP.
 
 All links below are rendered in HTML.
 
@@ -20,7 +20,7 @@ All links below are rendered in HTML.
 ---
 
 **Economics**
-- [00 Macro Textbook](https://htmlpreview.github.io/?https://github.com/SamMusch/01-Economics/blob/main/00%20Macro%20Textbook.html)
+- [00 Macro Textbook](https://htmlpreview.github.io/?https://github.com/SamMusch/01-Economics/blob/main/00%20Macro%20Textbook.html) ** Core notebook
 - [01 Energy](https://htmlpreview.github.io/?https://github.com/SamMusch/01-Economics/blob/main/01%20Energy.html)
 - [02 Game Theory](https://htmlpreview.github.io/?https://github.com/SamMusch/01-Economics/blob/main/02%20Game%20Theory.html)
 - [Global-Starter-Notebook](https://htmlpreview.github.io/?https://github.com/SamMusch/01-Economics/blob/main/Global-Notebook.html)
