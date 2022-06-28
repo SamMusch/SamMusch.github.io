@@ -11,7 +11,7 @@ These notebooks are a WIP. All links rendered in HTML.
 
 Predictive Machine Learning:
 
-- [Predictive](https://github.com/SamMusch/00-Data-Science/blob/main/00%20Pred%20Notes.html)
+- [Predictive](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/00%20Pred%20Notes.html)
 - [Neural Networks](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/04%20Neural%20Networks.html)
 - [Time Series](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/05%20Time%20Series.html)
 
@@ -30,7 +30,7 @@ Others:
 
 Core:
 
-- [Evolution & Philosophy](https://github.com/SamMusch/03-Evolution-Philosophy/blob/main/01%20Philosophy%20Github.html)
+- [Evolution & Philosophy](https://htmlpreview.github.io/?https://github.com/SamMusch/03-Evolution-Philosophy/blob/main/01%20Philosophy%20Github.html)
 - [Macro Textbook](https://htmlpreview.github.io/?https://github.com/SamMusch/01-Economics/blob/main/00%20Macro%20Textbook.html) ** Core notebook
 
 Others:
