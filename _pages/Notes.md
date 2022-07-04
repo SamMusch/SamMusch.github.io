@@ -12,8 +12,7 @@ These notebooks are a WIP. All links rendered in HTML.
 Predictive Machine Learning:
 
 - [Predictive](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/00%20Pred%20Notes.html)
-- [Neural Networks](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/04%20Neural%20Networks.html)
-- [Time Series](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/05%20Time%20Series.html)
+- [Time Series (LSTM Multivariate)](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/TS%20Neural%20Networks.html)
 
 
 Others:
