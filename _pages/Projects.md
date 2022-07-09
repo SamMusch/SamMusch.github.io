@@ -25,7 +25,7 @@ This was a project we completed for our course in Predictive Analytics (supervis
 
 ---
 
-- Time Series Multivariate Customer Forecasting
+- Minneapolis Crime
   - [Github](https://github.com/SamMusch/Minneapolis-Crime)
   - [Tableau](https://public.tableau.com/profile/sam.musch#!/vizhome/MinneapolisCrime/Sheet1)
 
