@@ -4,7 +4,6 @@ permalink: /notes/
 title: ""
 ---
 
-These notebooks are a WIP. All links rendered in HTML.
 
 
 **Data Science**
