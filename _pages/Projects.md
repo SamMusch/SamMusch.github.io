@@ -15,7 +15,7 @@ This was a project I completed after taking a deep-dive into LSTMs. The objectiv
 
 ---
 
-- Time Series Multivariate Customer Forecasting
+- Time Series Multivariate Customer Forecasting (LSTM, LightGBM)
   - [Report with Code](https://htmlpreview.github.io/?https://github.com/SamMusch/Predictive-Project-Time-Series/blob/master/Predictive%20KT.html)
   - [Presentation Slides](https://docs.google.com/presentation/d/1bUKSU8vLlv2M4-dflHaJGDqiRqiWalr-/edit?usp=sharing&ouid=111023174892277357363&rtpof=true&sd=true)
   - [Github Repository](https://github.com/SamMusch/Predictive-Project-Time-Series)
@@ -34,7 +34,7 @@ This repository includes the project our team performed for Causal Inference. Ou
 
 ---
 
-- Minneapolis Crime
+- Minneapolis Crime (Sentiment Analysis, XGBoost, AWS)
   - [Github](https://github.com/SamMusch/Minneapolis-Crime)
   - [Tableau](https://public.tableau.com/profile/sam.musch#!/vizhome/MinneapolisCrime/Sheet1)
 
