@@ -18,6 +18,7 @@ Predictive Machine Learning:
 
 Others:
 
+- [Python](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/Python%20Syntax.html)
 - [Statistics](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/02%20Statistics.html)
 - [Math](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/00%20Math.html)
 - [Unsupervised](https://htmlpreview.github.io/?https://github.com/SamMusch/00-Data-Science/blob/main/01%20Unsupervised.html)
